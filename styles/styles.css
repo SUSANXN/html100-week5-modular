@@ -7,7 +7,7 @@ a {color:blue;}
 
 h2 {font-family: 'Fjalla One', sans-serif;
   font-size: 45px;
-  padding-right:left; 30%; 
+  padding-right: 30%; 
   margin-top:18%;
   margin-left:45%;
   margin-right:10%;}
@@ -19,6 +19,6 @@ p {font-family: sans-serif; padding-left:45%; margin-right:10%;}
 img {padding-left:1rem;margin-left:15%; float:left;}
 
 .fa fa-star-o {float:left;clear:both;}
-body {background-color: white; }
+body {background-color: white;}
   
   
